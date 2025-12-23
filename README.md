@@ -19,11 +19,6 @@ Performance: overall_rating, potential
 Economic: value_euro, wage_euro
 Skills: pace, shooting, passing, dribbling, defending, physical, and 50+ detailed attributes
 
-🔧 Installation
-bash# Clone the repository
-git clone https://github.com/yourusername/fifa-players-analysis.git
-cd fifa-players-analysis
-
 # Install required packages
 pip install pandas numpy matplotlib seaborn
 🚀 Usage
